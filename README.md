@@ -27,13 +27,14 @@ Before getting started, you'll need to set up the following:
 ## How to Use
 
 1. Ensure that you're running Python 3.11 or later.
-2. Install the required libraries by running `pip install -r requirements.txt`.
-3. Run the script in any Python environment of your choice (e.g., Visual Studio Code).
-4. Provide a list of words.
-5. Choose the word information source (GPT-3 model or Merriam-Webster Dictionary).
-6. Choose the TTS option (Tacotron2 or ElevenLabs).
-7. The script will fetch the word information and generate TTS audio for each word.
-8. The script will output an mp3 file in the same directory, which you can later import into your spotify library to listen on the go
+2. git clone this repository : `git clone https://github.com/giri256/Vocab-Builder-TTS.git`
+3. Install the required libraries by running `pip install -r requirements.txt`.
+4. Run the script in any Python environment of your choice (e.g., Visual Studio Code).
+5. Provide a list of words.
+6. Choose the word information source (GPT-3 model or Merriam-Webster Dictionary).
+7. Choose the TTS option (Tacotron2 or ElevenLabs).
+8. The script will fetch the word information and generate TTS audio for each word.
+9. The script will output an mp3 file in the same directory, which you can later import into your spotify library to listen on the go
 
 **Note**: The Tacotron2 option requires the initial download of pre-trained models. While it can run on a CPU, using a GPU is recommended for faster performance.
 
