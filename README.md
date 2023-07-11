@@ -1,6 +1,9 @@
 # Vocab Builder TTS
 
-Vocab Builder TTS is an interactive tool designed to enhance your vocabulary learning experience. It takes a list of words as input, fetches their definitions, and generates Text-to-Speech (TTS) audio. Very useful to make custom audio-books of your difficult words for the exams like GRE, IELTS, TOEFL. So that you can listen to that on-fly while carrying on with your daily activities
+Vocab Builder TTS is an interactive GUI tool designed to enhance your vocabulary learning experience. It takes a list of words as input, fetches their definitions, and generates Text-to-Speech (TTS) audio. Very useful to make custom audio-books of your difficult words for the exams like GRE, IELTS, TOEFL. So that you can listen to that on-fly while carrying on with your daily activities
+
+![image](https://github.com/giri256/Vocab-Builder-TTS/assets/80974392/1b7440d6-75a1-4bd2-9066-9928b9cf1206)
+
 
 ## Prerequisites
 
