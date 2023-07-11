@@ -1,0 +1,8 @@
+requests
+numpy
+pydub
+simpleaudio
+PyQt5
+speechbrain
+openai
+elevenlabslib
