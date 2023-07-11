@@ -36,3 +36,10 @@ Before getting started, you'll need to set up the following:
 8. The script will output an mp3 file in the same directory, which you can later import into your spotify library to listen on the go
 
 **Note**: The Tacotron2 option requires the initial download of pre-trained models. While it can run on a CPU, using a GPU is recommended for faster performance.
+
+## Credits
+
+This project was made possible thanks to the following resources:
+
+- [ElevenLabsLib](https://github.com/lugia19/elevenlabslib) for easy API access to ElevenLabs.
+- The [Merriam-Webster Dictionary API](https://dictionaryapi.com/) for free use for non-commercial purposes.
